@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kalvinchang
-- 👀 I’m interested in computational historical linguistics, computational phonology, and Sinitic (Chinese) dialectology
+- 💻 Masters student at Carnegie Mellon's Language Technologies Institute (expected graduation in May 2023)
+- 👀 Research interests: computational historical linguistics, computational phonology, and Sinitic (Chinese) dialectology
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: email [kalvinc@cs.cmu.edu](kalvinc@cs.cmu.edu)
