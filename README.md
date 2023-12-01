@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalvinchang
 - 💻 Software Development Engineer at Amazon
-- 📚 Master's in language technologies from CMU
+- 📚 Master's in Language Technologies + Bachelor's in Computer Science from Carnegie Mellon
 - 👀 Research interests: computational historical linguistics, computational phonology, and speech recognition (ASR)
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
