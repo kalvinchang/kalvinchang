@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalvinchang
-- 💬 Speech and NLP researcher, Visiting Scholar @shinjiwlab
+- 💬 Speech and NLP researcher, Visiting Scholar @shinjiwlab and @changelinglab
 - 💻 Former Software Development Engineer at Amazon
 - 📚 Master's in Language Technologies + Bachelor's in Computer Science from Carnegie Mellon
 - 👀 Research interests: speech recognition (ASR) for low resource varieties, computational historical linguistics, computational phonology
