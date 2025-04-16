@@ -3,7 +3,7 @@
 - 📚 Incoming CS PhD student at Berkeley AI Research, Berkeley NLP (advised by Alane Suhr)
 - 💻 Former Software Development Engineer at Amazon
 - 🎓 Master's in Language Technologies + Bachelor's in Computer Science from Carnegie Mellon, [@shinjiwlab](https://shinjiwlab.github.io) and [@changelinglab](https://changelinglab.github.io)
-- 👀 Research interests: speech recognition (ASR) for low resource varieties, speech in-context learning, universal phone recognition; computational historical linguistics, computational phonology
+- 👀 Research interests: linguistically motivated NLP/speech processing, data-efficient generalization to low-resource settings, computational historical linguistics
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: email [kalvinc@alumni.cmu.edu](kalvinc@alumni.cmu.edu)
