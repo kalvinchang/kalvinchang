@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kalvinchang
-- 💬 Speech and NLP researcher, Visiting Scholar [@shinjiwlab](https://shinjiwlab.github.io) and [@changelinglab](https://changelinglab.github.io)
+- 💬 Speech and NLP researcher
+- 📚 Incoming CS PhD student at Berkeley AI Research, Berkeley NLP (advised by Alane Suhr)
 - 💻 Former Software Development Engineer at Amazon
-- 📚 Master's in Language Technologies + Bachelor's in Computer Science from Carnegie Mellon
+- 🎓 Master's in Language Technologies + Bachelor's in Computer Science from Carnegie Mellon, [@shinjiwlab](https://shinjiwlab.github.io) and [@changelinglab](https://changelinglab.github.io)
 - 👀 Research interests: speech recognition (ASR) for low resource varieties, speech in-context learning, universal phone recognition; computational historical linguistics, computational phonology
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
